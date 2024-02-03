@@ -1,1 +1,1 @@
-*** 🧙 C 307 Operating Systems Class Assignments 🧙 ***
+# 🧙 C 307 Operating Systems Class Assignments 🧙 
